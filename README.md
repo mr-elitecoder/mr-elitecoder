@@ -13,16 +13,14 @@ I am Computer Science Student currently Enhancing My Skill in Production Level W
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mr-elitecoder&type=languages&theme=tokyonight)
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mr-elitecoder&type=contributions&theme=tokyonight)
 ![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mr-elitecoder&type=top-repos&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=mr-elitecoder&icon=2&color=0)](https://visitcount.itsvg.in)
-
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
 
-### LeetCode DSA & DB <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px"> LeetCode 
   <img src="https://leetcard.jacoblin.cool/mr-elitecoder?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=300px/>
   &nbsp;&nbsp;&nbsp;
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Keep Doing Keep Growing <img src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40px" alt="ChainSink">
+### Sky Is The Limit
