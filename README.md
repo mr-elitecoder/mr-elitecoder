@@ -11,8 +11,8 @@ I am Computer Science Student currently Enhancing My Skill in Production Level W
 ### ⭐ GitHub Stats:
 ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mr-elitecoder&theme=dracula)
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mr-elitecoder&type=languages&theme=tokyonight)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mr-elitecoder&type=contributions&theme=dracula)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mr-elitecoder&type=top-repos&theme=tokyonight)
+<!--![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mr-elitecoder&type=contributions&theme=dracula)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mr-elitecoder&type=top-repos&theme=tokyonight) -->
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
