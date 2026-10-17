@@ -2,14 +2,14 @@
 I am Computer Science Student currently Enhancing My Skill in Production Level Web Applications.<br>Building Full Stack Project and Strengthening My Foundations In Core things Like DSA, Networking , Databases <br>and other Skills. .
 
 
-<picture>
+/* <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mr-elitecoder/mr-elitecoder/main/profile-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mr-elitecoder/mr-elitecoder/main/profile-3d-contrib/profile-green.svg" />
   <img src="https://raw.githubusercontent.com/mr-elitecoder/mr-elitecoder/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3d contribution graph" />
 
 </picture>
 
-
+*/
 
 <br>
    
